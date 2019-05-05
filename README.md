@@ -26,3 +26,13 @@ http://www.techydiy.org/how-to-connect-an-i2c-lcd-display-to-an-arduino-uno/
 Associated Libraries:
 NewLiquidCrystal:
 https://bitbucket.org/fmalpartida/new-liquidcrystal/wiki/Home
+
+ESP8266 Wifi Module
+
+How we use it:
+
+Communicate with user's phone via internet
+
+References: 
+https://ieeeqpucsd.com/tutorials/nodemcu/
+HOW TO CONNECT ESP8266 TO INTERNET https://www.youtube.com/watch?v=9Kg9idg2np0
